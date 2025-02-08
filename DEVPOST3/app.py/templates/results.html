@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Voting Results</title>
+</head>
+<body>
+    <h1>Election Results</h1>
+    <ul>
+        {% for candidate, count in votes.items() %}
+            <li>{{ candidate }}: {{ count }} votes</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Go Home</a>
+</body>
+</html>
