@@ -27,3 +27,11 @@ Frontend: HTML, CSS, JavaScript (Bootstrap)
 Face Detection: OpenCV
 
 Blockchain: Custom Python-based blockchain
+
+📸 Live Face Detection (OpenCV)
+
+To ensure secure authentication, the system uses OpenCV to detect and verify a voter’s face before allowing them to vote.
+
+🔗 Blockchain-Based Voting
+
+Each vote is added as a block in a simple custom blockchain, making the voting system tamper-proof and verifiable.
