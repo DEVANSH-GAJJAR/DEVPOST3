@@ -35,3 +35,7 @@ To ensure secure authentication, the system uses OpenCV to detect and verify a v
 🔗 Blockchain-Based Voting
 
 Each vote is added as a block in a simple custom blockchain, making the voting system tamper-proof and verifiable.
+
+📜 License
+
+This project is open-source under the MIT License. 🛡️
